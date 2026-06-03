@@ -1,17 +1,18 @@
 <div align="center">
-  <img src="./public/the_african_places.svg" alt="The African Places API Logo" width="200" height="200" />
+  <img src="https://github.com/latifiss/latifiss/blob/main/android-chrome-192x192.png" alt="Me" width="200" height="200" />
 
-  # 🌍 The African Places API
+  <h1>👋 Hi, I'm Latif Issaka</h1>
 
+  <h3>🚀 Full-Stack Developer • Design Engineer • UI/UX Designer</h3>
+
+  <p>
+    I bridge the gap between design and engineering by creating beautiful user experiences and building the systems that power them.
+  </p>
+
+  <p>
+    From product discovery and wireframes to scalable backend architecture and deployment, I enjoy turning ideas into polished digital products.
+  </p>
 </div>
-
-# 👋 Hi, I'm Latif Issaka
-
-### 🚀 Full-Stack Developer • Design Engineer • UI/UX Designer
-
-I bridge the gap between design and engineering by creating beautiful user experiences and building the systems that power them.
-
-From product discovery and wireframes to scalable backend architecture and deployment, I enjoy turning ideas into polished digital products.
 
 ---
 
@@ -70,6 +71,9 @@ From product discovery and wireframes to scalable backend architecture and deplo
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro)
+![Excalidraw](https://img.shields.io/badge/Excalidraw-1F1F1F?style=for-the-badge)
+![Maze](https://img.shields.io/badge/Maze-2D6CDF?style=for-the-badge)
 ![Design Systems](https://img.shields.io/badge/Design_Systems-000000?style=for-the-badge)
 ![Wireframing](https://img.shields.io/badge/Wireframing-6C63FF?style=for-the-badge)
 ![Prototyping](https://img.shields.io/badge/Prototyping-00C7B7?style=for-the-badge)
