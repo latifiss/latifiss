@@ -10,23 +10,18 @@ From product discovery and wireframes to scalable backend architecture and deplo
 
 ## 🎨 About Me
 
-💻 Full-Stack Developer with 5+ years of experience
-
-🎨 UI/UX Designer passionate about user-centered design
-
-⚡ Design Engineer focused on bridging design and code
-
-🌍 Based in Ghana and open to remote opportunities
-
-🚀 Passionate about SaaS, startups, AI, and digital products
-
-📈 Always learning, building, and improving
+💻 Full-Stack Developer with 5+ years of experience  
+🎨 UI/UX Designer passionate about user-centered design  
+⚡ Design Engineer focused on bridging design and code  
+🌍 Based in Ghana and open to remote opportunities  
+🚀 Passionate about SaaS, startups, AI, and digital products  
+📈 Always learning, building, and improving  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+**Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
@@ -39,7 +34,7 @@ From product discovery and wireframes to scalable backend architecture and deplo
 
 ---
 
-### Backend
+**Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
@@ -50,7 +45,7 @@ From product discovery and wireframes to scalable backend architecture and deplo
 
 ---
 
-### ☁️ Cloud, DevOps & Hosting
+## ☁️ Cloud, DevOps & Hosting
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
@@ -60,8 +55,9 @@ From product discovery and wireframes to scalable backend architecture and deplo
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
+---
 
-### Design
+## 🎨 Design
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd)
@@ -71,7 +67,7 @@ From product discovery and wireframes to scalable backend architecture and deplo
 
 ---
 
-### Tools & Platforms
+## 🧰 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -84,43 +80,40 @@ From product discovery and wireframes to scalable backend architecture and deplo
 
 ## 🚀 What I Build
 
-### 🎨 Design Engineering
+**🎨 Design Engineering**
+- Design Systems  
+- Component Libraries  
+- Interactive Prototypes  
+- Responsive Interfaces  
+- Product Design  
+- UX Research  
 
-- Design Systems
-- Component Libraries
-- Interactive Prototypes
-- Responsive Interfaces
-- Product Design
-- UX Research
+**💻 Full-Stack Applications**
+- SaaS Platforms  
+- E-commerce Systems  
+- Booking Platforms  
+- CMS Solutions  
+- Internal Dashboards  
+- Real-time Applications  
 
-### 💻 Full-Stack Applications
-
-- SaaS Platforms
-- E-commerce Systems
-- Booking Platforms
-- CMS Solutions
-- Internal Dashboards
-- Real-time Applications
-
-### ⚡ APIs & Infrastructure
-
-- REST APIs
-- Authentication Systems
-- Database Architecture
-- WebSocket Applications
-- Cloudflare Integrations
-- Performance Optimization
+**⚡ APIs & Infrastructure**
+- REST APIs  
+- Authentication Systems  
+- Database Architecture  
+- WebSocket Applications  
+- Cloud Integrations  
+- Performance Optimization  
 
 ---
 
 ## 🌱 Currently Exploring
 
-- AI Product Development
-- Advanced TypeScript
-- Design Systems at Scale
-- Product Strategy
-- Web Performance
-- Cloud Architecture
+- AI Product Development  
+- Advanced TypeScript  
+- Design Systems at Scale  
+- Product Strategy  
+- Web Performance  
+- Cloud Architecture  
 
 ---
 
@@ -128,27 +121,19 @@ From product discovery and wireframes to scalable backend architecture and deplo
 
 > Great products happen when design and engineering work together.
 
-I enjoy creating experiences that are:
-
-✨ User-focused
-
-⚡ Fast and performant
-
-🎨 Visually polished
-
-📈 Scalable
-
-🔒 Reliable
+✨ User-focused  
+⚡ Fast and performant  
+🎨 Visually polished  
+📈 Scalable  
+🔒 Reliable  
 
 ---
 
 ## 📫 Let's Connect
 
-🌍 Ghana
-
-💼 Open to Remote Opportunities
-
-🚀 Available for Design Engineering, Full-Stack Development, and Product Design roles
+🌍 Ghana  
+💼 Open to Remote Opportunities  
+🚀 Design Engineering • Full-Stack • Product Design  
 
 ---
 
