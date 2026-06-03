@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there 👋 I'm Latif
 
-<!--
-**latifiss/latifiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer & UI/UX Designer
 
-Here are some ideas to get you started:
+I design user experiences and build scalable web applications from idea to production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Redux
+
+### Backend
+- Node.js
+- Express
+- MongoDB
+- PostgreSQL
+
+### Design
+- Figma
+- Adobe XD
+- Design Systems
+- Prototyping
+
+## 💼 What I Do
+
+🎨 Design intuitive user experiences
+
+💻 Build full-stack SaaS applications
+
+⚡ Develop modern frontend interfaces
+
+📱 Create responsive web products
+
+## 🚀 Current Focus
+
+- Design Engineering
+- Product Design
+- Full-Stack Development
+- AI-powered applications
+
+## 📫 Connect With Me
+
+- Portfolio: your-link
+- LinkedIn: your-link
+- Email: your-email
+
+---
+⭐ Building products that blend great design with great engineering.
