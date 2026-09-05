@@ -18,7 +18,7 @@
 
 ## 🎨 About Me
 
-💻 Full-Stack Developer with 5+ years of experience  
+💻 Product Engineer & Full-Stack Developer with 6+ years of experience  
 🎨 UI/UX Designer passionate about user-centered design  
 ⚡ Design Engineer focused on bridging design and code  
 🌍 Based in Ghana and open to remote opportunities  
