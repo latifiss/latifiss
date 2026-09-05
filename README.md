@@ -3,7 +3,7 @@
 
   <h1>👋 Hi, I'm Latif Issaka</h1>
 
-  <h3>🚀 Full-Stack Developer • Design Engineer • Frontend Engineer • UI/UX Designer</h3>
+  <h3>🚀 Product Engineer • Full-Stack Developer • Design Engineer • Frontend Engineer • UI/UX Designer</h3>
 
   <p>
     I bridge the gap between design and engineering by creating beautiful user experiences and building the systems that power them.
@@ -146,7 +146,7 @@
 
 🌍 Ghana  
 💼 Open to Remote Opportunities  
-🚀 Design Engineering • Full-Stack • Product Design  
+🚀 Design Engineering • Product Engineering • Full-Stack • Front-end Development • UX Design
 
 ---
 
